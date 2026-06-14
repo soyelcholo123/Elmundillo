@@ -1,0 +1,19 @@
+{
+	id: "d76377ba-700c-3f97-acdd-092e125c13e3"
+	type: "player"
+	player_name: "Curku"
+	ranks: {
+		d76377ba-700c-3f97-acdd-092e125c13e3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Curku"
+		"ftbteams:color": "#59FFAF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,19 @@
+{
+	id: "5cc6c029-9c40-3598-9862-28b1206ca96b"
+	type: "player"
+	player_name: "iamcholo"
+	ranks: {
+		5cc6c029-9c40-3598-9862-28b1206ca96b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "iamcholo"
+		"ftbteams:color": "#FF59BB"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
